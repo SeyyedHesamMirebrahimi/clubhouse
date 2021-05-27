@@ -2,13 +2,14 @@
 
 /**
 * Clubhouse Private API
-* @author Seyyed Hesam Mirebrahimi <https://github.com/SeyyedHesamMirebrahimi/>
+* @author Fadhiil Rachman <https://www.instagram.com/seyyedhesammirebrahimi/>
+* @version 1.2.3
 */
 
-namespace seyyedhesammirebrahimi\clubhouse;
+namespace seyyedhesammirebrahimi\Clubhouse;
 
-use \seyyedhesammirebrahimi\clubhouse\Requests;
-use \seyyedhesammirebrahimi\clubhouse\ClubhouseException;
+use \seyyedhesammirebrahimi\Clubhouse\Requests;
+use \seyyedhesammirebrahimi\Clubhouse\ClubhouseException;
 
 class Clubhouse extends Requests
 {

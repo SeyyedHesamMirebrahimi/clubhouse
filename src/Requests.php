@@ -1,11 +1,12 @@
 <?php
 
 /**
- * Clubhouse Private API
- * @author Seyyed Hesam Mirebrahimi <https://github.com/SeyyedHesamMirebrahimi/>
- */
+* Clubhouse Private API
+* @author Fadhiil Rachman <https://www.instagram.com/seyyedhesammirebrahimi/>
+* @version 1.2.3
+*/
 
-namespace seyyedhesammirebrahimi\clubhouse;
+namespace seyyedhesammirebrahimi\Clubhouse;
 
 use \seyyedhesammirebrahimi\Clubhouse\Constants;
 use \seyyedhesammirebrahimi\Clubhouse\Sessions;
