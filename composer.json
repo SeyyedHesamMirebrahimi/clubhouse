@@ -9,5 +9,15 @@
             "email": "hesaam.mir@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "seyyedhesammirebrahimi\\clubhouse\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "seyyedhesammirebrahimi\\clubhouse\\": "src"
+        }
+    }
 }
